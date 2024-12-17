@@ -23,4 +23,4 @@ Atualmente estou no 6º Semestre de Ciência da Computação e trabalho na área
 - **[API-TS](https://github.com/nicolasmarcari/API-TS)** : API feita em NodeJS com TypeScript feita com o intuito de colocar em prática alguns de meus conhecimentos sobre NodeJS.
 
 ## Contato
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-juner-marcari/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-juner-marcari/).
